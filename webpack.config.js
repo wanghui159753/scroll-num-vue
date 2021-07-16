@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-16 17:18:08
+ * @LastEditTime: 2021-07-16 17:57:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num/webpack.config.js
@@ -15,7 +15,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'scroll-num'
+    filename: 'scroll-num-vue.js'
   },
   module: {
     rules: [

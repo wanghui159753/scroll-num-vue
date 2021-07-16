@@ -1,5 +1,5 @@
 
-import ScrollNum from './scroll-num/scroll-num';
+import ScrollNum from './scroll-num-vue/scroll-num-vue';
 const ScrollNum2 = {
   install: (Vue, options) => {
     Vue.component(ScrollNum.name, ScrollNum)
