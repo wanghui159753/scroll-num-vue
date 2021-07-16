@@ -2,9 +2,13 @@
 
 > '数字翻滚效果'
 
-## Build Setup
+## npm 引入
 
 ``` bash
-npm install scroll-num
+npm install scroll-num-vue
 
-yarn add scroll-num
+yarn add scroll-num-vue
+
+## npm使用
+`
+`

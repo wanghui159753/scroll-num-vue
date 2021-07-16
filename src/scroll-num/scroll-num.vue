@@ -38,7 +38,7 @@
  *
  */
 export default {
-  name: 'ScrollNum',
+  name: 'ScrollNumVue',
   props: {
     num: {
       type: Number,
