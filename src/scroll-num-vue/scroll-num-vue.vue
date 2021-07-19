@@ -85,7 +85,7 @@ export default {
     },
     // 获取需要动画的几个关键帧
     get_computed_height () {
-      const d = this.$refs.tar.querySelector('.scroll-num-ten').children; const h = parseInt(getComputedStyle(d[0], null).height)
+      const d = this.$refs.tar.getElementsByClassName('scroll-num-ten')[0].children; const h = parseInt(getComputedStyle(d[0], null).height)
       for (let i = 0; i < d.length; i++) {
         this.transform_list.push({
           transform: 'translateY(-' + (h * i) + 'px)'
