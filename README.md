@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:39:49
+ * @LastEditTime: 2021-07-19 14:42:26
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -25,12 +25,20 @@ yarn add scroll-num-vue
 
 ## npm使用
 `
-import scroll from 'scroll-num-vue';
+import scroll from 'scroll-num-vue';  
 app.use(scroll);
 `
 
 ### props
 
-num  |  dot
-需要显示的数字  |  是否显示逗号
+<table>
+  <tr>
+    <td>num</td>
+    <td>dot</td>
+  </tr>
+  <tr>
+    <td>需要显示的数字</td>
+    <td>是否显示逗号</td>
+  </tr>
+</table>
 
