@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:17:26
+ * @LastEditTime: 2021-07-19 14:32:49
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -10,12 +10,20 @@
 
 > '数字翻滚效果'
 
+# 效果图
+
+<p align='center'>
+<img src='src/img/link.gif' title='images' style='max-width:600px'></img>
+</p>
+
+
 ## npm 引入
 
 ``` bash
 npm install scroll-num-vue
 
 yarn add scroll-num-vue
+```
 
 ## npm使用
 `
@@ -25,6 +33,6 @@ app.use(scroll);
 
 ### props
 
-```
-num  需要显示的数字
-dot  是否显示逗号
+num  |  dot
+需要显示的数字  |  是否显示逗号
+
