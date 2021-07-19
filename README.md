@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:43:55
+ * @LastEditTime: 2021-07-19 14:44:55
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -25,7 +25,7 @@ yarn add scroll-num-vue
 
 ## npm使用
 `
-import scroll from 'scroll-num-vue';  <br>
+import scroll from 'scroll-num-vue';  \
 app.use(scroll);  
 `
 
