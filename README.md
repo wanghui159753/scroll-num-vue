@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:32:49
+ * @LastEditTime: 2021-07-19 14:34:50
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -13,7 +13,7 @@
 # 效果图
 
 <p align='center'>
-<img src='src/img/link.gif' title='images' style='max-width:600px'></img>
+<img src='/src/img/link.gif' title='images' style='max-width:600px'></img>
 </p>
 
 
