@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:36:41
+ * @LastEditTime: 2021-07-19 14:38:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -12,7 +12,7 @@
 
 # 效果图
 
-![/src/img/link.gif]
+![Image](https://github.com/wanghui159753/scroll-num/tree/master/src/img/link.gif)
 
 
 ## npm 引入
