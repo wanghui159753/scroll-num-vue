@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-07-16 16:28:14
- * @LastEditTime: 2021-07-19 14:34:50
+ * @LastEditTime: 2021-07-19 14:36:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /scroll-num-vue/README.md
@@ -12,9 +12,7 @@
 
 # 效果图
 
-<p align='center'>
-<img src='/src/img/link.gif' title='images' style='max-width:600px'></img>
-</p>
+![/src/img/link.gif]
 
 
 ## npm 引入
